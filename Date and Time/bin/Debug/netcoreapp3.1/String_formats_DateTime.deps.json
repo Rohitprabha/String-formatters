@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "String_formats_DateTime/1.0.0": {
+        "runtime": {
+          "String_formats_DateTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String_formats_DateTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
