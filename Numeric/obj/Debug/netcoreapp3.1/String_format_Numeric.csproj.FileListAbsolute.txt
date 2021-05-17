@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\bin\Debug\netcoreapp3.1\String_format_Numeric.exe
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\bin\Debug\netcoreapp3.1\String_format_Numeric.deps.json
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\bin\Debug\netcoreapp3.1\String_format_Numeric.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\bin\Debug\netcoreapp3.1\String_format_Numeric.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\bin\Debug\netcoreapp3.1\String_format_Numeric.dll
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\bin\Debug\netcoreapp3.1\String_format_Numeric.pdb
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\obj\Debug\netcoreapp3.1\String_format_Numeric.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\obj\Debug\netcoreapp3.1\String_format_Numeric.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\obj\Debug\netcoreapp3.1\String_format_Numeric.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\obj\Debug\netcoreapp3.1\String_format_Numeric.dll
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\obj\Debug\netcoreapp3.1\String_format_Numeric.pdb
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\obj\Debug\netcoreapp3.1\String_format_Numeric.genruntimeconfig.cache
+C:\Users\Rohit Dasari\source\repos\String_format_Numeric\obj\Debug\netcoreapp3.1\String_format_Numeric.csprojAssemblyReference.cache
