@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\bin\Debug\netcoreapp3.1\String_Formats_index.exe
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\bin\Debug\netcoreapp3.1\String_Formats_index.deps.json
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\bin\Debug\netcoreapp3.1\String_Formats_index.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\bin\Debug\netcoreapp3.1\String_Formats_index.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\bin\Debug\netcoreapp3.1\String_Formats_index.dll
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\bin\Debug\netcoreapp3.1\String_Formats_index.pdb
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\obj\Debug\netcoreapp3.1\String_Formats_index.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\obj\Debug\netcoreapp3.1\String_Formats_index.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\obj\Debug\netcoreapp3.1\String_Formats_index.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\obj\Debug\netcoreapp3.1\String_Formats_index.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\obj\Debug\netcoreapp3.1\String_Formats_index.dll
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\obj\Debug\netcoreapp3.1\String_Formats_index.pdb
+C:\Users\Rohit Dasari\source\repos\String_Formats_index\obj\Debug\netcoreapp3.1\String_Formats_index.genruntimeconfig.cache
